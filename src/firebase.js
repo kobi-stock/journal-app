@@ -3,10 +3,10 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBVgrgQEGAxn7Ko22bGTxTGohJqwapSmTc",
+  apiKey: "AIzaSyBvgrgGEAXn7Ko22bGTXTohJqwapSmTc",
   authDomain: "journal-app-86996.firebaseapp.com",
   projectId: "journal-app-86996",
-  storageBucket: "journal-app-86996.appspot.com",
+  storageBucket: "journal-app-86996.firebasestorage.app",
   messagingSenderId: "794853822094",
   appId: "1:794853822094:web:472168f6697e86525dc3df"
 };
