@@ -23,7 +23,7 @@ function App() {
       await signInWithPopup(auth, provider);
     } catch (e) {
       console.error(e);
-      alert("로그인 실패");
+      alert(e.code + "\n" + e.message);
     }
   };
 
