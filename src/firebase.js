@@ -6,7 +6,7 @@ const firebaseConfig = {
   apiKey: "AIzaSyBvgrgGEAXn7Ko22bGTXTohJqwapSmTc",
   authDomain: "journal-app-86996.firebaseapp.com",
   projectId: "journal-app-86996",
-  storageBucket: "journal-app-86996.firebasestorage.app",
+  storageBucket: "journal-app-86996.appspot.com",
   messagingSenderId: "794853822094",
   appId: "1:794853822094:web:472168f6697e86525dc3df"
 };
